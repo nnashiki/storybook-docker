@@ -6,3 +6,8 @@
   - `vue create vue-storybook`
   - `npx sb init`
   - `npm run storybook` で動かせた
+- 最初からあるものを削除
+  - `rm -rf .storybook/`
+  - `rm -rf src/stories/`
+- 開発準備
+  - 
